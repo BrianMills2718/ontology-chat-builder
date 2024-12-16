@@ -1,0 +1,6 @@
+owlready2>=0.37
+anthropic>=0.3.0
+openai>=1.0.0
+python-dotenv>=0.19.0
+jupyter>=1.0.0
+notebook>=6.0.0

@@ -1,0 +1,8 @@
+services:
+  server:
+    image: webvowl:v1
+    container_name: ontology_viewer
+    ports:
+      - "8081:8080"
+    volumes:
+      - ./webvowl_1.1.7.war:/usr/local/tomcat/webapps/webvowl.war
