@@ -1,0 +1,17 @@
+---
+doc-role: wiki-manifest
+freshness: 2026-06-25
+---
+
+# Wiki Manifest — Ontology Chat Builder
+
+id: ontology-chat-builder
+portfolio_tier: background
+description: >
+  Ontology Chat Builder
+
+sources:
+  - path: ../README.md
+    role: overview
+  - path: ../CLAUDE.md
+    role: instructions
